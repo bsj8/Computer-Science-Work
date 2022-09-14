@@ -1,0 +1,103 @@
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute shortest path based on number of hops.
+4. Compute shortest path based on distance.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 1
+Please enter graph filename:
+data2.txt
+Data imported successfully.
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute shortest path based on number of hops.
+4. Compute shortest path based on distance.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 2
+Berlin: London(579) NewYork(3965) Paris(545) Rome(734) Moscow(1004) 
+London: NewYork(3458) Paris(213) HongKong(5982) Rome(887) Calcutta(4947) 
+NewYork: Paris(3624) Rome(4281) LosAngeles(2451) Caracas(2123) BuenosAires(5297) 
+Paris: Rome(679) Istanbul(1400) 
+Tokyo: Sydney(4866) HongKong(1794) LosAngeles(5433) Calcutta(3194) 
+Sydney: HongKong(4584) 
+HongKong: LosAngeles(7195) 
+Rome: Moscow(1474) Cairo(1320) 
+LosAngeles: BuenosAires(6916) 
+Calcutta: Cairo(3539) 
+Caracas: BuenosAires(3168) 
+Moscow: Istanbul(1091) 
+BuenosAires: 
+Istanbul: Cairo(768) 
+Cairo: 
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute shortest path based on number of hops.
+4. Compute shortest path based on distance.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 4
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 3
+Please enter destination city (1-15): 15
+The shortest route from NewYork to Cairo has 5601 miles: NewYork 4281 Rome 1320 Cairo 
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute shortest path based on number of hops.
+4. Compute shortest path based on distance.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 4
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 2
+Please enter destination city (1-15): 10
+The shortest route from London to Calcutta has 4947 miles: London 4947 Calcutta 
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute shortest path based on number of hops.
+4. Compute shortest path based on distance.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 5

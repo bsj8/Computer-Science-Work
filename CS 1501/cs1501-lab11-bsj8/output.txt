@@ -1,0 +1,64 @@
+Values in insertion order:
+	9 8 7 6 5 4 3 2 1 0
+A["Key0"] = 0
+A["Key1"] = 1
+A["Key2"] = 2
+A["Key3"] = 3
+A["Key4"] = 4
+A["Key5"] = 5
+A["Key6"] = 6
+A["Key7"] = 7
+A["Key8"] = 8
+A["Key9"] = 9
+Deleting ("Key3", 3)...
+Values in insertion order:
+	9 8 7 6 5 4 2 1 0
+A["Key0"] = 0
+A["Key1"] = 1
+A["Key2"] = 2
+A["Key3"] = null
+A["Key4"] = 4
+A["Key5"] = 5
+A["Key6"] = 6
+A["Key7"] = 7
+A["Key8"] = 8
+A["Key9"] = 9
+Deleting ("Key9", 9)...
+Values in insertion order:
+	8 7 6 5 4 2 1 0
+A["Key0"] = 0
+A["Key1"] = 1
+A["Key2"] = 2
+A["Key3"] = null
+A["Key4"] = 4
+A["Key5"] = 5
+A["Key6"] = 6
+A["Key7"] = 7
+A["Key8"] = 8
+A["Key9"] = null
+Deleting ("Key0", 0)...
+Values in insertion order:
+	8 7 6 5 4 2 1
+A["Key0"] = null
+A["Key1"] = 1
+A["Key2"] = 2
+A["Key3"] = null
+A["Key4"] = 4
+A["Key5"] = 5
+A["Key6"] = 6
+A["Key7"] = 7
+A["Key8"] = 8
+A["Key9"] = null
+Inserting ("Key9", 9)...
+Values in insertion order:
+	8 7 6 5 4 2 1 9
+A["Key0"] = null
+A["Key1"] = 1
+A["Key2"] = 2
+A["Key3"] = null
+A["Key4"] = 4
+A["Key5"] = 5
+A["Key6"] = 6
+A["Key7"] = 7
+A["Key8"] = 8
+A["Key9"] = 9

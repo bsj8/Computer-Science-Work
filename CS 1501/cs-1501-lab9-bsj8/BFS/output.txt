@@ -1,0 +1,161 @@
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 5
+Incorrect option.
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 1
+Please enter graph filename:
+data2.txt
+Data imported successfully.
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 2
+Berlin: London  NewYork  Paris  Rome  Moscow
+London: NewYork  Paris  HongKong  Rome  Calcutta
+NewYork: Paris  Rome  LosAngeles  Caracas  BuenosAires
+Paris: Rome  Istanbul
+Tokyo: Sydney  HongKong  LosAngeles  Calcutta
+Sydney: HongKong
+HongKong: LosAngeles
+Rome: Moscow  Cairo
+LosAngeles: BuenosAires
+Calcutta: Cairo
+Caracas: BuenosAires
+Moscow: Istanbul
+BuenosAires:
+Istanbul: Cairo
+Cairo:
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 2
+Please enter destination city (1-15): 14
+The shortest route from London to Istanbul has 2 hop(s): London Paris Istanbul
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 1
+Please enter destination city (1-15): 14
+The shortest route from Berlin to Istanbul has 2 hop(s): Berlin Paris Istanbul
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 1
+Please enter destination city (1-15): 10
+The shortest route from Berlin to Calcutta has 2 hop(s): Berlin London Calcutta
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 3
+1: Berlin
+2: London
+3: NewYork
+4: Paris
+5: Tokyo
+6: Sydney
+7: HongKong
+8: Rome
+9: LosAngeles
+10: Calcutta
+11: Caracas
+12: Moscow
+13: BuenosAires
+14: Istanbul
+15: Cairo
+Please enter source city (1-15): 1
+Please enter destination city (1-15): 5
+There is not route from Berlin to Tokyo
+Please press ENTER to continue ...
+*********************************
+Welcome to FifteenO'One Airlines!
+1. Read data from a file.
+2. Display all routes.
+3. Compute Shortest path based on number of hops.
+4. Exit.
+*********************************
+Please choose a menu option (1-4): 4
