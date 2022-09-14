@@ -1,0 +1,94 @@
+% java TreeFile
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 1
+Please enter tree filename:
+sample.txt
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 3
+Enter new root's character data:
+X
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 4
+Enter new root's character data:
+Y
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 5
+Please enter tree filename:
+tree1.txt
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 1
+Please enter tree filename:
+tree1.txt
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 2
+Y
+A
+L
+D
+M
+E
+N
+F
+K
+C
+O
+B
+X
+*********************************
+Welcome to CS 1501 Persistent Tree Program!
+1. Read tree from a file
+2. Display inorder traversal of the tree
+3. Attach tree as left child to a new root
+4. Attach tree as right child to a new root
+5. Write tree to a file
+6. Exit.
+*********************************
+Please choose a menu option (1-6): 6

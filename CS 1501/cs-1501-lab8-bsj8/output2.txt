@@ -1,0 +1,15 @@
+Berlin: London  NewYork  Paris  Rome  Moscow
+London: NewYork  Paris  HongKong  Rome  Calcutta
+NewYork: Paris  Rome  LosAngeles  Caracas  BuenosAires
+Paris: Rome  Istanbul
+Tokyo: Sydney  HongKong  LosAngeles  Calcutta
+Sydney: HongKong
+HongKong: LosAngeles
+Rome: Moscow  Cairo
+LosAngeles: BuenosAires
+Calcutta: Cairo
+Caracas: BuenosAires
+Moscow: Istanbul
+BuenosAires:
+Istanbul: Cairo
+Cairo:

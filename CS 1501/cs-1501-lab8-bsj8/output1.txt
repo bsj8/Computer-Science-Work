@@ -1,0 +1,9 @@
+Pittsburgh: Erie  Johnstown  Harrisburg  Philadelphia
+Erie:
+Altoona: Johnstown  Harrisburg
+Johnstown:
+Harrisburg: Philadelphia  Reading
+Philadelphia: Scranton  Allentown
+Scranton:
+Reading: Allentown  Pittsburgh
+Allentown:
